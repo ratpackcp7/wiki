@@ -2,6 +2,7 @@
 title: Acerserver
 created: 2026-04-07
 updated: 2026-04-08
+last_verified: 2026-04-30
 type: entity
 tags: [server, docker, networking, tailscale, backup]
 sources: [session:2026-04-07, session:2026-04-08]

@@ -78,6 +78,37 @@
 
 ---
 
+## Category 4: Engineering Wiki
+
+*See `engineering/AGENTS.md` for full rules. Churn rates: principles (365d), languages (90d), stacks (30d), practices (90d).*
+
+### Principles (low churn)
+- [[engineering/principles/api-design|API Design]]
+- [[engineering/principles/api-key-security|API Key Security]]
+- [[engineering/principles/ai-assisted-development|AI Assisted Development]]
+
+### Stacks (high churn — 30d)
+- [[engineering/stacks/react-native-expo|React Native/Expo]]
+- [[engineering/stacks/nextjs|Next.js]]
+- [[engineering/stacks/fastapi|FastAPI]]
+- [[engineering/stacks/sqlite|SQLite]]
+- [[engineering/stacks/home-assistant|Home Assistant]]
+- [[engineering/stacks/llm|LLM]]
+
+### Languages (medium churn — 90d)
+- [[engineering/languages/python|Python]]
+
+### Practices (medium churn — 90d)
+- [[engineering/practices/agent-skill-architecture|Agent Skill Architecture]]
+- [[engineering/practices/agent-verification-tools|Agent Verification Tools]]
+- [[engineering/practices/testing-with-coding-agents|Testing with Coding Agents]]
+- [[engineering/practices/bitwarden-cli-compromise|Bitwarden CLI Compromise]]
+
+### Chris Preferences Spine
+- [[engineering/chris-preferences|Chris Preferences]] — links to `~/bob-principles.md`
+
+---
+
 ## Quick Commands
 
 ### Wiki Search

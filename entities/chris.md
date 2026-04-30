@@ -2,6 +2,7 @@
 title: Chris (User Profile — Operating Preferences)
 created: 2026-04-08
 updated: 2026-04-08
+last_verified: 2026-04-30
 type: entity
 tags: [lessons-learned, configuration]
 sources: [/home/chris/bob-principles.md, session:2026-04-08]

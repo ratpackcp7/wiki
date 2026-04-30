@@ -2,6 +2,7 @@
 title: CP7 Mobile
 created: 2026-04-30
 updated: 2026-04-30
+last_verified: 2026-04-30
 type: project
 tags: [mobile, react-native, expo, typescript, chris-project]
 sources: [github:ratpackcp7/cp7-mobile]

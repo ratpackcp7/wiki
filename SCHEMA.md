@@ -3,6 +3,28 @@
 ## Domain
 CP7 operations — homelab infrastructure, smart home, personal finance tooling, AI/ML ops, GitHub projects, and Chris Pack's personal/project info.
 
+## Directory Structure
+
+### Core (3-layer architecture)
+- `entities/` — CP7 ops entity pages (servers, people, hardware)
+- `concepts/` — CP7 ops concept pages (procedures, rules, bugs)
+- `projects/` — GitHub repos and active projects
+- `reference/` — Quick facts, cheatsheets
+- `scripts/` — Maintenance scripts (wiki-lint.sh, wiki-freshness-check.sh)
+
+### Engineering Wiki (`engineering/`)
+Lives under `~/wiki/engineering/` — see `engineering/AGENTS.md` for full rules.
+- `principles/` — how to think about a class of problem (churn: 365 days)
+- `languages/` — language-specific idioms (churn: 90 days)
+- `stacks/` — framework/runtime specific (churn: 30 days)
+- `practices/` — workflow and process (churn: 90 days)
+- `chris-preferences.md` — the spine, links to `~/bob-principles.md`
+
+### Legacy (being phased out)
+- `comparisons/` — product/repo comparisons
+- `queries/` — question-answer pairs
+- `raw/` — archived to `ratpackcp7/wiki-raw` repo
+
 ## Three Categories (Chris's organization)
 1. **CP7 Things** — homelab, services, infrastructure → `entities/`, `concepts/`
 2. **GitHub Things** — repos, projects → `projects/`

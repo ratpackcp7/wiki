@@ -48,7 +48,7 @@ See [[mk-finance]] for the full account map and ownership rules. High level:
 - MK: CapOne 360, multiple CCs
 - Shared: mortgage, utilities
 
-## Chris & MK Finance [[bob-index]]
+## Chris & MK Finance [[BOB_INDEX]]
 
 MK (Chris's wife) account and pay structure. Reference for audits and household cashflow.
 

@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Datasette",
+    "url": "https://simonwillison.net/2026/Jan/29/datasette/",
+    "date": "2026-01-29",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Datasette 10A24",
+    "url": "https://simonwillison.net/2026/Jan/29/datasette-10a24/",
+    "date": "2026-01-29",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Litestream Writable VFS",
+    "url": "https://fly.io/blog/litestream-writable-vfs/",
+    "date": "2026-01-29",
+    "blog": "Fly.io Blog"
+  }
+]

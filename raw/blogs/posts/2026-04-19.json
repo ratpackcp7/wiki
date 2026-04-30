@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1804",
+    "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything",
+    "published": "2026-04-18"
+  },
+  {
+    "id": "1805",
+    "title": "Claude system prompts as a git timeline",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/18/extract-system-prompts/#atom-everything",
+    "published": "2026-04-18"
+  }
+]

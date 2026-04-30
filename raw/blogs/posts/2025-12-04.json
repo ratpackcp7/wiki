@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Text A Librarian",
+    "url": "https://simonwillison.net/2025/Dec/4/text-a-librarian/",
+    "date": "2025-12-04",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Django 6",
+    "url": "https://simonwillison.net/2025/Dec/4/django-6/",
+    "date": "2025-12-04",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "0.123.9",
+    "url": "https://github.com/fastapi/fastapi/releases/tag/0.123.9",
+    "date": "2025-12-04",
+    "blog": "FastAPI Releases"
+  },
+  {
+    "title": "0.123.8",
+    "url": "https://github.com/fastapi/fastapi/releases/tag/0.123.8",
+    "date": "2025-12-04",
+    "blog": "FastAPI Releases"
+  },
+  {
+    "title": "0.123.7",
+    "url": "https://github.com/fastapi/fastapi/releases/tag/0.123.7",
+    "date": "2025-12-04",
+    "blog": "FastAPI Releases"
+  },
+  {
+    "title": "0.123.6",
+    "url": "https://github.com/fastapi/fastapi/releases/tag/0.123.6",
+    "date": "2025-12-04",
+    "blog": "FastAPI Releases"
+  },
+  {
+    "title": "FileBrowser Quantum Hits Stable!",
+    "url": "https://selfh.st/post/filebrowser-quantum-hits-stable/",
+    "date": "2025-12-04",
+    "blog": "selfh.st"
+  }
+]

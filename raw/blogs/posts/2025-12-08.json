@@ -1,0 +1,236 @@
+[
+  {
+    "title": "The Museum Of Jurassic Technology",
+    "url": "https://simonwillison.net/2025/Dec/8/the-museum-of-jurassic-technology/",
+    "date": "2025-12-08",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Museum Of Jurassic Technology",
+    "url": "https://simonwillison.net/2025/Dec/8/museum-of-jurassic-technology/",
+    "date": "2025-12-08",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Datasette Lite Npm Package",
+    "url": "https://simonwillison.net/2025/Dec/8/datasette-lite-npm-package/",
+    "date": "2025-12-08",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Datasette Lite Js Init",
+    "url": "https://simonwillison.net/2025/Dec/8/datasette-lite-js-init/",
+    "date": "2025-12-08",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "You Should Write An Agent",
+    "url": "https://fly.io/blog/everyone-write-an-agent/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "Corrosion",
+    "url": "https://fly.io/blog/corrosion/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "Kurt Got Got",
+    "url": "https://fly.io/blog/kurt-got-got/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "Litestream v0.5.0 is Here",
+    "url": "https://fly.io/blog/litestream-v050-is-here/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "Build Better Agents With MorphLLM",
+    "url": "https://fly.io/blog/build-better-agents-with-morphllm/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "Trust Calibration for AI Software Builders",
+    "url": "https://fly.io/blog/trust-calibration-for-ai-software-builders/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "Games as Model Eval: 1-Click Deploy AI Town on Fly.io",
+    "url": "https://fly.io/blog/games-as-model-eval/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "The Future Isn't Model Agnostic",
+    "url": "https://fly.io/blog/the-future-isn-t-model-agnostic/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "Phoenix.new \u2013 The Remote AI Runtime for Phoenix",
+    "url": "https://fly.io/blog/phoenix-new-the-remote-ai-runtime/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "What are MCP Servers?",
+    "url": "https://fly.io/blog/mcps-everywhere/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "My AI Skeptic Friends Are All Nuts",
+    "url": "https://fly.io/blog/youre-all-nuts/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "Using Kamal 2.0 in Production",
+    "url": "https://fly.io/blog/kamal-in-production/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "parking_lot: ffffffffffffffff...",
+    "url": "https://fly.io/blog/parking-lot-ffffffffffffffff/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "Litestream: Revamped",
+    "url": "https://fly.io/blog/litestream-revamped/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "Launching MCP Servers on Fly.io",
+    "url": "https://fly.io/blog/mcp-launch/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "Provisioning Machines using MCPs",
+    "url": "https://fly.io/blog/mcp-provisioning/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "30 Minutes With MCP and flyctl",
+    "url": "https://fly.io/blog/30-minute-mcp/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "Our Best Customers Are Now Robots",
+    "url": "https://fly.io/blog/fuckin-robots/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "Operationalizing Macaroons",
+    "url": "https://fly.io/blog/operationalizing-macaroons/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "Taming A Voracious Rust Proxy",
+    "url": "https://fly.io/blog/taming-rust-proxy/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "We Were Wrong About GPUs",
+    "url": "https://fly.io/blog/wrong-about-gpu/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "The Exit Interview: JP Phillips",
+    "url": "https://fly.io/blog/the-exit-interview-jp/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "A Blog, If You Can Keep It",
+    "url": "https://fly.io/blog/a-blog-if-kept/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "Did Semgrep Just Get A Lot More Interesting?",
+    "url": "https://fly.io/blog/semgrep-but-for-real-now/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "VSCode\u2019s SSH Agent Is Bananas",
+    "url": "https://fly.io/blog/vscode-ssh-wtf/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "AI GPU Clusters, From Your Laptop, With Livebook",
+    "url": "https://fly.io/blog/ai-gpu-clusters-from-your-laptop-livebook/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "Accident Forgiveness",
+    "url": "https://fly.io/blog/accident-forgiveness/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "We're Cutting L40S Prices In Half",
+    "url": "https://fly.io/blog/cutting-prices-for-l40s-gpus-in-half/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "Making Machines Move",
+    "url": "https://fly.io/blog/machine-migrations/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "AWS without Access Keys",
+    "url": "https://fly.io/blog/oidc-cloud-roles/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "Picture This: Open Source AI for Image Description",
+    "url": "https://fly.io/blog/llm-image-description/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "JIT WireGuard",
+    "url": "https://fly.io/blog/jit-wireguard-peers/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "Fly Kubernetes does more now",
+    "url": "https://fly.io/blog/fks-beta-live/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "Globally Distributed Object Storage with Tigris",
+    "url": "https://fly.io/blog/tigris-public-beta/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  },
+  {
+    "title": "GPUs on Fly.io are available to everyone!",
+    "url": "https://fly.io/blog/gpu-ga/",
+    "date": "2025-12-08",
+    "blog": "Fly.io Blog"
+  }
+]

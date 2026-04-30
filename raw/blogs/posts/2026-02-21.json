@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Claws",
+    "url": "https://simonwillison.net/2026/Feb/21/claws/",
+    "date": "2026-02-21",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Thibault Sottiaux",
+    "url": "https://simonwillison.net/2026/Feb/21/thibault-sottiaux/",
+    "date": "2026-02-21",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "0.129.2",
+    "url": "https://github.com/fastapi/fastapi/releases/tag/0.129.2",
+    "date": "2026-02-21",
+    "blog": "FastAPI Releases"
+  },
+  {
+    "title": "0.129.1",
+    "url": "https://github.com/fastapi/fastapi/releases/tag/0.129.1",
+    "date": "2026-02-21",
+    "blog": "FastAPI Releases"
+  }
+]

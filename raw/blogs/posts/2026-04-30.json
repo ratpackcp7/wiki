@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1880",
+    "title": "pgBackRest is no longer being maintained",
+    "blog": "Postgres Weekly",
+    "url": "https://postgresweekly.com/issues/646",
+    "published": "2026-04-29"
+  },
+  {
+    "id": "1879",
+    "title": "Building Pi, and what makes self-modifying software so fascinating",
+    "blog": "The Pragmatic Engineer",
+    "url": "https://newsletter.pragmaticengineer.com/p/building-pi-and-what-makes-self-modifying",
+    "published": "2026-04-29"
+  },
+  {
+    "id": "1875",
+    "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything",
+    "published": "2026-04-30"
+  },
+  {
+    "id": "1876",
+    "title": "llm 0.32a1",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/29/llm-3/#atom-everything",
+    "published": "2026-04-29"
+  },
+  {
+    "id": "1877",
+    "title": "LLM 0.32a0  is a major backwards-compatible refactor",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/29/llm/#atom-everything",
+    "published": "2026-04-29"
+  },
+  {
+    "id": "1878",
+    "title": "llm 0.32a0",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/29/llm-2/#atom-everything",
+    "published": "2026-04-29"
+  },
+  {
+    "id": "1874",
+    "title": "When AI Tools Get Standing Access: Lessons from the Vercel Breach",
+    "blog": "StrongDM Blog",
+    "url": "https://discover.strongdm.com/blog/when-ai-tools-get-standing-access-lessons-from-the-vercel-breach",
+    "published": "2026-04-29"
+  },
+  {
+    "id": "1873",
+    "title": "[AINews] The Inference Inflection",
+    "blog": "Latent Space",
+    "url": "https://www.latent.space/p/ainews-the-inference-inflection",
+    "published": "2026-04-30"
+  },
+  {
+    "id": "1872",
+    "title": "not much happened today",
+    "blog": "AI News smol.ai",
+    "url": "https://news.smol.ai/issues/26-04-29-not-much/",
+    "published": "2026-04-29"
+  }
+]

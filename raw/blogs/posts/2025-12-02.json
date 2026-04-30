@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Claude Soul Document",
+    "url": "https://simonwillison.net/2025/Dec/2/claude-soul-document/",
+    "date": "2025-12-02",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Introducing Mistral 3",
+    "url": "https://simonwillison.net/2025/Dec/2/introducing-mistral-3/",
+    "date": "2025-12-02",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Anthropic Acquires Bun",
+    "url": "https://simonwillison.net/2025/Dec/2/anthropic-acquires-bun/",
+    "date": "2025-12-02",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "0.123.5",
+    "url": "https://github.com/fastapi/fastapi/releases/tag/0.123.5",
+    "date": "2025-12-02",
+    "blog": "FastAPI Releases"
+  },
+  {
+    "title": "0.123.4",
+    "url": "https://github.com/fastapi/fastapi/releases/tag/0.123.4",
+    "date": "2025-12-02",
+    "blog": "FastAPI Releases"
+  },
+  {
+    "title": "0.123.3",
+    "url": "https://github.com/fastapi/fastapi/releases/tag/0.123.3",
+    "date": "2025-12-02",
+    "blog": "FastAPI Releases"
+  },
+  {
+    "title": "0.123.2",
+    "url": "https://github.com/fastapi/fastapi/releases/tag/0.123.2",
+    "date": "2025-12-02",
+    "blog": "FastAPI Releases"
+  },
+  {
+    "title": "0.123.1",
+    "url": "https://github.com/fastapi/fastapi/releases/tag/0.123.1",
+    "date": "2025-12-02",
+    "blog": "FastAPI Releases"
+  },
+  {
+    "title": "Debugging webapps with coding agents",
+    "url": "https://blog.fsck.com/2025/12/02/debugging-webapps-with-coding-agents/",
+    "date": "2025-12-02",
+    "blog": "Jesse Vincent"
+  }
+]

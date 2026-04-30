@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Claude Import Memory",
+    "url": "https://simonwillison.net/2026/Mar/1/claude-import-memory/",
+    "date": "2026-03-01",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Gif Optimizer",
+    "url": "https://simonwillison.net/2026/Mar/1/gif-optimizer/",
+    "date": "2026-03-01",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Ai Writing",
+    "url": "https://simonwillison.net/2026/Mar/1/ai-writing/",
+    "date": "2026-03-01",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "0.135.1",
+    "url": "https://github.com/fastapi/fastapi/releases/tag/0.135.1",
+    "date": "2026-03-01",
+    "blog": "FastAPI Releases"
+  },
+  {
+    "title": "0.135.0",
+    "url": "https://github.com/fastapi/fastapi/releases/tag/0.135.0",
+    "date": "2026-03-01",
+    "blog": "FastAPI Releases"
+  }
+]

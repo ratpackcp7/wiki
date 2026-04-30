@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Introducing Showboat and Rodney, so agents can demo what they\u2019ve built",
+    "url": "https://simonwillison.net/2026/Feb/10/showboat-and-rodney/",
+    "date": "2026-02-10",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Rodney 2",
+    "url": "https://simonwillison.net/2026/Feb/10/rodney-2/",
+    "date": "2026-02-10",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Gif Dissector",
+    "url": "https://simonwillison.net/2026/Feb/10/gif-dissector/",
+    "date": "2026-02-10",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Rodney",
+    "url": "https://simonwillison.net/2026/Feb/10/rodney/",
+    "date": "2026-02-10",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Cysqlite Wasm Wheel",
+    "url": "https://simonwillison.net/2026/Feb/10/cysqlite-wasm-wheel/",
+    "date": "2026-02-10",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Pyodide Repl",
+    "url": "https://simonwillison.net/2026/Feb/10/pyodide-repl/",
+    "date": "2026-02-10",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "0.128.7",
+    "url": "https://github.com/fastapi/fastapi/releases/tag/0.128.7",
+    "date": "2026-02-10",
+    "blog": "FastAPI Releases"
+  }
+]

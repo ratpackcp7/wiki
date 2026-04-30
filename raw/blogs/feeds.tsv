@@ -1,0 +1,32 @@
+#tier	name	url	feed_url	notes
+1	Simon Willison	https://simonwillison.net/	https://simonwillison.net/atom/everything/	
+1	Armin Ronacher	https://lucumr.pocoo.org/	https://lucumr.pocoo.org/feed.atom	
+1	Hamel Husain	https://hamel.dev/	https://hamel.dev/index.xml	
+1	Next.js Blog	https://nextjs.org/blog	https://nextjs.org/feed.xml	
+1	Expo Changelog	https://expo.dev/changelog	https://expo.dev/changelog/rss.xml	
+1	Home Assistant Blog	https://www.home-assistant.io/blog/	https://www.home-assistant.io/atom.xml	
+1	Fly.io Blog	https://fly.io/blog/	https://fly.io/blog/feed.xml	
+1	Jesse Vincent	https://blog.fsck.com/	https://blog.fsck.com/feed/rss.xml	author of superpowers / upstream to trycycle
+1	Dan Shapiro	https://www.danshapiro.com/blog/	https://www.danshapiro.com/blog/feed/	author of trycycle
+2	Julia Evans	https://jvns.ca/	https://jvns.ca/atom.xml	
+2	Xe Iaso	https://xeiaso.net/blog/	https://xeiaso.net/blog.rss	
+2	selfh.st	https://selfh.st/	https://selfh.st/rss/	
+2	The Pragmatic Engineer	https://newsletter.pragmaticengineer.com/	https://newsletter.pragmaticengineer.com/feed	
+2	Latent Space	https://www.latent.space/	https://www.latent.space/feed	
+2	AI News smol.ai	https://news.smol.ai/	https://news.smol.ai/rss.xml	
+2	FastAPI Releases	https://github.com/fastapi/fastapi/releases	https://github.com/fastapi/fastapi/releases.atom	
+2	Astral Blog	https://astral.sh/blog	https://astral.sh/blog/rss.xml	
+2	Navan Chauhan	https://web.navan.dev/	https://web.navan.dev/feed.rss	Swift/iOS/ML, cross-ref from trycycle
+2	StrongDM Blog	https://www.strongdm.com/blog	http://100.101.249.113:8888/feeds/strongdm-blog.xml	cross-ref from trycycle; UA-blocked, cached via ~/.hermes/scripts/blogwatcher-cache-feeds.py → ~/swap/feeds/
+3	PyCoders Weekly	https://pycoders.com/	https://pycoders.com/feed	
+3	Postgres Weekly	https://postgresweekly.com/	https://cprss.s3.amazonaws.com/postgresweekly.com.xml	direct S3 (no 302 follow)
+3	Brandur Leach	https://brandur.org/	https://brandur.org/articles.atom	
+3	Dan Luu	https://danluu.com/	https://danluu.com/atom.xml	
+
+# DROPPED
+# Anthropic News — no RSS, public RSSHub 403s
+# Anthropic Engineering — dupe of News
+# Theo t3.gg — no real blog feed
+# Rachel By The Bay — IP routing block + active anti-bot
+# Jay Taylor — portfolio site, no RSS, dormant (last update 2025-03-06)
+# (StrongDM Blog was dropped earlier in this session due to UA 403, then restored above via a local cache proxy. See active tier 2 list.)

@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Cooking Timer",
+    "url": "https://simonwillison.net/2025/Dec/27/cooking-timer/",
+    "date": "2025-12-27",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Textarea My",
+    "url": "https://simonwillison.net/2025/Dec/27/textarea-my/",
+    "date": "2025-12-27",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Claude Code Transcripts",
+    "url": "https://simonwillison.net/2025/Dec/27/claude-code-transcripts/",
+    "date": "2025-12-27",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Boris Cherny",
+    "url": "https://simonwillison.net/2025/Dec/27/boris-cherny/",
+    "date": "2025-12-27",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "John Cena",
+    "url": "https://simonwillison.net/2025/Dec/27/john-cena/",
+    "date": "2025-12-27",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Micro Javascript",
+    "url": "https://simonwillison.net/2025/Dec/27/micro-javascript/",
+    "date": "2025-12-27",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "0.128.0",
+    "url": "https://github.com/fastapi/fastapi/releases/tag/0.128.0",
+    "date": "2025-12-27",
+    "blog": "FastAPI Releases"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "id": "1791",
+    "title": "A 6502 CPU emulator entirely in Postgres",
+    "blog": "Postgres Weekly",
+    "url": "https://postgresweekly.com/issues/644",
+    "published": "2026-04-15"
+  },
+  {
+    "id": "1788",
+    "title": "[AINews] RIP Pull Requests (2005-2026)",
+    "blog": "Latent Space",
+    "url": "https://www.latent.space/p/ainews-rip-pull-requests-2005-2026",
+    "published": "2026-04-16"
+  },
+  {
+    "id": "1789",
+    "title": "[AINews] Humanity's Last Gasp",
+    "blog": "Latent Space",
+    "url": "https://www.latent.space/p/ainews-humanitys-last-gasp",
+    "published": "2026-04-15"
+  },
+  {
+    "id": "1790",
+    "title": "Notion\u2019s Token Town: 5 Rebuilds, 100+ Tools, MCP vs CLIs and the Software Factory Future \u2014 Simon Last & Sarah Sachs of Notion",
+    "blog": "Latent Space",
+    "url": "https://www.latent.space/p/notion",
+    "published": "2026-04-15"
+  },
+  {
+    "id": "1787",
+    "title": "Issue #730: Typing Django, Dictionaries, pandas vs Polars, and More (April 14, 2026)",
+    "blog": "PyCoders Weekly",
+    "url": "https://pycoders.com/issues/730",
+    "published": "2026-04-14"
+  },
+  {
+    "id": "1786",
+    "title": "The impact of AI on software engineers in 2026: key trends",
+    "blog": "The Pragmatic Engineer",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-impact-of-ai-on-software-engineers-2026",
+    "published": "2026-04-14"
+  },
+  {
+    "id": "1774",
+    "title": "datasette.io news preview",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything",
+    "published": "2026-04-16"
+  },
+  {
+    "id": "1775",
+    "title": "datasette-export-database 0.3a1",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/15/datasette-export-database/#atom-everything",
+    "published": "2026-04-15"
+  },
+  {
+    "id": "1776",
+    "title": "datasette 1.0a27",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/15/datasette/#atom-everything",
+    "published": "2026-04-15"
+  },
+  {
+    "id": "1777",
+    "title": "Quoting John Gruber",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything",
+    "published": "2026-04-15"
+  },
+  {
+    "id": "1778",
+    "title": "Gemini 3.1 Flash TTS",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/15/gemini-31-flash-tts/#atom-everything",
+    "published": "2026-04-15"
+  },
+  {
+    "id": "1779",
+    "title": "Gemini 3.1 Flash TTS",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/15/gemini-flash-tts/#atom-everything",
+    "published": "2026-04-15"
+  },
+  {
+    "id": "1780",
+    "title": "Quoting Kyle Kingsbury",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/15/kyle-kingsbury/#atom-everything",
+    "published": "2026-04-15"
+  },
+  {
+    "id": "1781",
+    "title": "datasette-ports 0.3",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/15/datasette-ports/#atom-everything",
+    "published": "2026-04-15"
+  },
+  {
+    "id": "1782",
+    "title": "Zig 0.16.0 release notes: \"Juicy Main\"",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything",
+    "published": "2026-04-15"
+  },
+  {
+    "id": "1783",
+    "title": "datasette PR #2689: Replace token-based CSRF with Sec-Fetch-Site header protection",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/14/replace-token-based-csrf/#atom-everything",
+    "published": "2026-04-14"
+  },
+  {
+    "id": "1784",
+    "title": "Trusted access for the next era of cyber defense",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/14/trusted-access-openai/#atom-everything",
+    "published": "2026-04-14"
+  },
+  {
+    "id": "1785",
+    "title": "Cybersecurity Looks Like Proof of Work Now",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/14/cybersecurity-proof-of-work/#atom-everything",
+    "published": "2026-04-14"
+  },
+  {
+    "id": "1772",
+    "title": "not much happened today",
+    "blog": "AI News smol.ai",
+    "url": "https://news.smol.ai/issues/26-04-15-not-much/",
+    "published": "2026-04-15"
+  },
+  {
+    "id": "1773",
+    "title": "not much happened today",
+    "blog": "AI News smol.ai",
+    "url": "https://news.smol.ai/issues/26-04-14-not-much/",
+    "published": "2026-04-06"
+  },
+  {
+    "id": "1770",
+    "title": "0.136.0",
+    "blog": "FastAPI Releases",
+    "url": "https://github.com/fastapi/fastapi/releases/tag/0.136.0",
+    "published": "2026-04-16"
+  },
+  {
+    "id": "1771",
+    "title": "0.135.4",
+    "blog": "FastAPI Releases",
+    "url": "https://github.com/fastapi/fastapi/releases/tag/0.135.4",
+    "published": "2026-04-16"
+  }
+]

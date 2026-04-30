@@ -1,0 +1,38 @@
+[
+  {
+    "title": "ChatGPT Containers can now run bash, pip/npm install packages, and download files",
+    "url": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
+    "date": "2026-01-26",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Datasette Visible Internal Db",
+    "url": "https://simonwillison.net/2026/Jan/26/datasette-visible-internal-db/",
+    "date": "2026-01-26",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Cloudflare Workers Python Sqlite",
+    "url": "https://simonwillison.net/2026/Jan/26/cloudflare-workers-python-sqlite/",
+    "date": "2026-01-26",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Chatgpt Container Environment",
+    "url": "https://simonwillison.net/2026/Jan/26/chatgpt-container-environment/",
+    "date": "2026-01-26",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Minesweeper",
+    "url": "https://simonwillison.net/2026/Jan/26/minesweeper/",
+    "date": "2026-01-26",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Tests",
+    "url": "https://simonwillison.net/2026/Jan/26/tests/",
+    "date": "2026-01-26",
+    "blog": "Simon Willison"
+  }
+]

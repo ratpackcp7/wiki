@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1799",
+    "title": "The Genie and the Monkey\u2019s Paw",
+    "blog": "Dan Shapiro",
+    "url": "https://www.danshapiro.com/blog/2026/04/the-genie-and-the-monkeys-paw/",
+    "published": "2026-04-16"
+  },
+  {
+    "id": "1798",
+    "title": "Self-Host Weekly (17 April 2026)",
+    "blog": "selfh.st",
+    "url": "https://selfh.st/weekly/2026-04-17/",
+    "published": "2026-04-17"
+  },
+  {
+    "id": "1797",
+    "title": "The Pulse: \u2018Tokenmaxxing\u2019 as a weird new trend",
+    "blog": "The Pragmatic Engineer",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-tokenmaxxing-as-a-weird",
+    "published": "2026-04-16"
+  },
+  {
+    "id": "1794",
+    "title": "datasette 1.0a28",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/17/datasette/#atom-everything",
+    "published": "2026-04-17"
+  },
+  {
+    "id": "1795",
+    "title": "llm-anthropic 0.25",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything",
+    "published": "2026-04-16"
+  },
+  {
+    "id": "1796",
+    "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything",
+    "published": "2026-04-16"
+  },
+  {
+    "id": "1793",
+    "title": "[AINews] Anthropic Claude Opus 4.7 - literally one step better than 4.6 in every dimension",
+    "blog": "Latent Space",
+    "url": "https://www.latent.space/p/ainews-anthropic-claude-opus-47-literally",
+    "published": "2026-04-17"
+  },
+  {
+    "id": "1792",
+    "title": "Anthropic's Claude Opus 4.7",
+    "blog": "AI News smol.ai",
+    "url": "https://news.smol.ai/issues/26-04-16-opus-47/",
+    "published": "2026-04-16"
+  }
+]

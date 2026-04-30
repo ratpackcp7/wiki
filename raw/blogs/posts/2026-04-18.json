@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1802",
+    "title": "Adding a new content type to my blog-to-newsletter tool",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything",
+    "published": "2026-04-18"
+  },
+  {
+    "id": "1803",
+    "title": "Join us at PyCon US 2026 in Long Beach - we have new AI and security tracks this year",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/17/pycon-us-2026/#atom-everything",
+    "published": "2026-04-17"
+  },
+  {
+    "id": "1801",
+    "title": "[AINews] The Two Sides of OpenClaw",
+    "blog": "Latent Space",
+    "url": "https://www.latent.space/p/ainews-the-two-sides-of-openclaw",
+    "published": "2026-04-18"
+  },
+  {
+    "id": "1800",
+    "title": "not much happened today",
+    "blog": "AI News smol.ai",
+    "url": "https://news.smol.ai/issues/26-04-17-not-much/",
+    "published": "2026-04-17"
+  }
+]

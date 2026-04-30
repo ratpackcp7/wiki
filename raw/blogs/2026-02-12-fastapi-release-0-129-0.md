@@ -1,0 +1,24 @@
+---
+source_url: https://github.com/fastapi/fastapi/releases/tag/0.129.0
+fetched: 2026-04-11
+fetcher: blogwatcher
+content_type: blog
+slug: 2026-02-12-fastapi-release-0-129-0
+---
+
+# Release 0.129.0
+
+Released 12 Feb 2026 by tiangolo. 260 commits to master since this release.
+
+Breaking Changes:
+- Drop support for Python 3.9. PR #14897 by @tiangolo.
+
+Refactors:
+- Update internal types for Python 3.10. PR #14898 by @tiangolo.
+
+Docs:
+- Update highlights in webhooks docs. PR #14905 by @tiangolo.
+- Update source examples and docs from Python 3.9 to 3.10. PR #14900 by @tiangolo.
+
+Internal:
+- Update docs.py scripts to migrate Python 3.9 to 3.10. PR #14906 by @tiangolo.

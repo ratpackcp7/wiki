@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1845",
+    "title": "[AINews] GPT 5.5 and OpenAI Codex Superapp",
+    "blog": "Latent Space",
+    "url": "https://www.latent.space/p/ainews-gpt-55-and-openai-codex-superapp",
+    "published": "2026-04-24"
+  },
+  {
+    "id": "1846",
+    "title": "AIE Europe Debrief + Agent Labs Thesis: Unsupervised Learning x Latent Space Crossover Special (2026)",
+    "blog": "Latent Space",
+    "url": "https://www.latent.space/p/unsupervised-learning-2026",
+    "published": "2026-04-23"
+  },
+  {
+    "id": "1844",
+    "title": "The Pulse: AI token spending out of control \u2013 what\u2019s next?",
+    "blog": "The Pragmatic Engineer",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-ai-token-spending-out-of",
+    "published": "2026-04-23"
+  },
+  {
+    "id": "1834",
+    "title": "DeepSeek V4 - almost on the frontier, a fraction of the price",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything",
+    "published": "2026-04-24"
+  },
+  {
+    "id": "1835",
+    "title": "Millisecond Converter",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/24/milliseconds/#atom-everything",
+    "published": "2026-04-24"
+  },
+  {
+    "id": "1836",
+    "title": "It's a big one",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/24/weekly/#atom-everything",
+    "published": "2026-04-24"
+  },
+  {
+    "id": "1837",
+    "title": "russellromney/honker",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/24/honker/#atom-everything",
+    "published": "2026-04-24"
+  },
+  {
+    "id": "1838",
+    "title": "An update on recent Claude Code quality reports",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/#atom-everything",
+    "published": "2026-04-24"
+  },
+  {
+    "id": "1839",
+    "title": "Serving the For You feed",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/24/serving-the-for-you-feed/#atom-everything",
+    "published": "2026-04-24"
+  },
+  {
+    "id": "1840",
+    "title": "Extract PDF text in your browser with LiteParse for the web",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything",
+    "published": "2026-04-23"
+  },
+  {
+    "id": "1841",
+    "title": "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything",
+    "published": "2026-04-23"
+  },
+  {
+    "id": "1842",
+    "title": "llm-openai-via-codex 0.1a0",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/23/llm-openai-via-codex/#atom-everything",
+    "published": "2026-04-23"
+  },
+  {
+    "id": "1843",
+    "title": "Quoting Maggie Appleton",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything",
+    "published": "2026-04-23"
+  },
+  {
+    "id": "1833",
+    "title": "ubisys joins Works with Home Assistant",
+    "blog": "Home Assistant Blog",
+    "url": "https://www.home-assistant.io/blog/2026/04/23/ubisys-joins-works-with-home-assistant/",
+    "published": "2026-04-23"
+  },
+  {
+    "id": "1832",
+    "title": "GPT 5.5",
+    "blog": "AI News smol.ai",
+    "url": "https://news.smol.ai/issues/26-04-23-gpt-55/",
+    "published": "2026-04-23"
+  },
+  {
+    "id": "1831",
+    "title": "0.136.1",
+    "blog": "FastAPI Releases",
+    "url": "https://github.com/fastapi/fastapi/releases/tag/0.136.1",
+    "published": "2026-04-23"
+  },
+  {
+    "id": "1830",
+    "title": "Sign in with GitHub",
+    "blog": "Expo Changelog",
+    "url": "https://expo.dev/changelog/sign-in-with-github",
+    "published": "2026-04-23"
+  },
+  {
+    "id": "1829",
+    "title": "Equity for Europeans",
+    "blog": "Armin Ronacher",
+    "url": "https://lucumr.pocoo.org/2026/4/23/equity-for-europeans/",
+    "published": "2026-04-23"
+  }
+]

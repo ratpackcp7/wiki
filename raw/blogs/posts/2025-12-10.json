@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Useful patterns for building HTML tools",
+    "url": "https://simonwillison.net/2025/Dec/10/html-tools/",
+    "date": "2025-12-10",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Lets Encrypt",
+    "url": "https://simonwillison.net/2025/Dec/10/lets-encrypt/",
+    "date": "2025-12-10",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Pypi Changelog",
+    "url": "https://simonwillison.net/2025/Dec/10/pypi-changelog/",
+    "date": "2025-12-10",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Dark Mode",
+    "url": "https://simonwillison.net/2025/Dec/10/dark-mode/",
+    "date": "2025-12-10",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Normalization Of Deviance",
+    "url": "https://simonwillison.net/2025/Dec/10/normalization-of-deviance/",
+    "date": "2025-12-10",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "0.124.2",
+    "url": "https://github.com/fastapi/fastapi/releases/tag/0.124.2",
+    "date": "2025-12-10",
+    "blog": "FastAPI Releases"
+  },
+  {
+    "title": "0.124.1",
+    "url": "https://github.com/fastapi/fastapi/releases/tag/0.124.1",
+    "date": "2025-12-10",
+    "blog": "FastAPI Releases"
+  }
+]

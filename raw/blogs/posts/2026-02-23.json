@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Writing about Agentic Engineering Patterns",
+    "url": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/",
+    "date": "2026-02-23",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Summer Yue",
+    "url": "https://simonwillison.net/2026/Feb/23/summer-yue/",
+    "date": "2026-02-23",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Reply Guy",
+    "url": "https://simonwillison.net/2026/Feb/23/reply-guy/",
+    "date": "2026-02-23",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Showboat",
+    "url": "https://simonwillison.net/2026/Feb/23/showboat/",
+    "date": "2026-02-23",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Paul Ford",
+    "url": "https://simonwillison.net/2026/Feb/23/paul-ford/",
+    "date": "2026-02-23",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Ladybird Adopts Rust",
+    "url": "https://simonwillison.net/2026/Feb/23/ladybird-adopts-rust/",
+    "date": "2026-02-23",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "0.132.0",
+    "url": "https://github.com/fastapi/fastapi/releases/tag/0.132.0",
+    "date": "2026-02-23",
+    "blog": "FastAPI Releases"
+  }
+]

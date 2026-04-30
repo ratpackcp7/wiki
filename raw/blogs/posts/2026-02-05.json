@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The World Factbook",
+    "url": "https://simonwillison.net/2026/Feb/5/the-world-factbook/",
+    "date": "2026-02-05",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Datasette Pins",
+    "url": "https://simonwillison.net/2026/Feb/5/datasette-pins/",
+    "date": "2026-02-05",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Two New Models",
+    "url": "https://simonwillison.net/2026/Feb/5/two-new-models/",
+    "date": "2026-02-05",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Ai Adoption Journey",
+    "url": "https://simonwillison.net/2026/Feb/5/ai-adoption-journey/",
+    "date": "2026-02-05",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "0.128.2",
+    "url": "https://github.com/fastapi/fastapi/releases/tag/0.128.2",
+    "date": "2026-02-05",
+    "blog": "FastAPI Releases"
+  }
+]

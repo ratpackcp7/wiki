@@ -1,0 +1,79 @@
+[
+  {
+    "id": "1822",
+    "title": "Learnings from conducting ~1,000 interviews at Amazon",
+    "blog": "The Pragmatic Engineer",
+    "url": "https://newsletter.pragmaticengineer.com/p/learnings-from-conducting-1000-interviews",
+    "published": "2026-04-21"
+  },
+  {
+    "id": "1821",
+    "title": "Issue #731: Visualize ML, Vector DBs, Type Checker Comparison, and More (April 21, 2026)",
+    "blog": "PyCoders Weekly",
+    "url": "https://pycoders.com/issues/731",
+    "published": "2026-04-21"
+  },
+  {
+    "id": "1820",
+    "title": "[AINews] OpenAI launches GPT-Image-2",
+    "blog": "Latent Space",
+    "url": "https://www.latent.space/p/ainews-openai-launches-gpt-image",
+    "published": "2026-04-22"
+  },
+  {
+    "id": "1813",
+    "title": "Quoting Bobby Holley",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything",
+    "published": "2026-04-22"
+  },
+  {
+    "id": "1814",
+    "title": "Changes to GitHub Copilot Individual plans",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/22/changes-to-github-copilot/#atom-everything",
+    "published": "2026-04-22"
+  },
+  {
+    "id": "1815",
+    "title": "Is Claude Code going to cost $100/month? Probably not - it's all very confusing",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything",
+    "published": "2026-04-22"
+  },
+  {
+    "id": "1816",
+    "title": "Where's the raccoon with the ham radio? (ChatGPT Images 2.0)",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything",
+    "published": "2026-04-21"
+  },
+  {
+    "id": "1817",
+    "title": "Quoting Andreas P\u00e5hlsson-Notini",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything",
+    "published": "2026-04-21"
+  },
+  {
+    "id": "1818",
+    "title": "scosman/pelicans_riding_bicycles",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/21/scosman/#atom-everything",
+    "published": "2026-04-21"
+  },
+  {
+    "id": "1819",
+    "title": "llm-openrouter 0.6",
+    "blog": "Simon Willison",
+    "url": "https://simonwillison.net/2026/Apr/20/llm-openrouter/#atom-everything",
+    "published": "2026-04-20"
+  },
+  {
+    "id": "1812",
+    "title": "GPT-Image-2",
+    "blog": "AI News smol.ai",
+    "url": "https://news.smol.ai/issues/26-04-21-image-2/",
+    "published": "2026-04-21"
+  }
+]

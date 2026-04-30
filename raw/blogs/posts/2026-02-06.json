@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Running Pydantic\u2019s Monty Rust sandboxed Python subset in WebAssembly",
+    "url": "https://simonwillison.net/2026/Feb/6/pydantic-monty/",
+    "date": "2026-02-06",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Karel Doosterlinck",
+    "url": "https://simonwillison.net/2026/Feb/6/karel-doosterlinck/",
+    "date": "2026-02-06",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Pyo3 Pyodide Wasm",
+    "url": "https://simonwillison.net/2026/Feb/6/pyo3-pyodide-wasm/",
+    "date": "2026-02-06",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Monty Wasm Pyodide",
+    "url": "https://simonwillison.net/2026/Feb/6/monty-wasm-pyodide/",
+    "date": "2026-02-06",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "An Update On Heroku",
+    "url": "https://simonwillison.net/2026/Feb/6/an-update-on-heroku/",
+    "date": "2026-02-06",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Tom Dale",
+    "url": "https://simonwillison.net/2026/Feb/6/tom-dale/",
+    "date": "2026-02-06",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "0.128.3",
+    "url": "https://github.com/fastapi/fastapi/releases/tag/0.128.3",
+    "date": "2026-02-06",
+    "blog": "FastAPI Releases"
+  }
+]

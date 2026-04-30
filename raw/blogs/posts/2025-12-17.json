@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Gemini 3 Flash",
+    "url": "https://simonwillison.net/2025/Dec/17/gemini-3-flash/",
+    "date": "2025-12-17",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Firefox Parser",
+    "url": "https://simonwillison.net/2025/Dec/17/firefox-parser/",
+    "date": "2025-12-17",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Codex Timeline",
+    "url": "https://simonwillison.net/2025/Dec/17/codex-timeline/",
+    "date": "2025-12-17",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Litestream Restarts",
+    "url": "https://simonwillison.net/2025/Dec/17/litestream-restarts/",
+    "date": "2025-12-17",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Claude Code Timeline",
+    "url": "https://simonwillison.net/2025/Dec/17/claude-code-timeline/",
+    "date": "2025-12-17",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Llm Gemini",
+    "url": "https://simonwillison.net/2025/Dec/17/llm-gemini/",
+    "date": "2025-12-17",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "Vibespiling",
+    "url": "https://simonwillison.net/2025/Dec/17/vibespiling/",
+    "date": "2025-12-17",
+    "blog": "Simon Willison"
+  },
+  {
+    "title": "0.125.0",
+    "url": "https://github.com/fastapi/fastapi/releases/tag/0.125.0",
+    "date": "2025-12-17",
+    "blog": "FastAPI Releases"
+  }
+]

@@ -1,7 +1,12 @@
 # Wiki Schema
 
 ## Domain
-CP7 operations — homelab infrastructure, smart home, personal finance tooling, AI/ML ops, and any research topic Chris explores in depth.
+CP7 operations — homelab infrastructure, smart home, personal finance tooling, AI/ML ops, GitHub projects, and Chris Pack's personal/project info.
+
+## Three Categories (Chris's organization)
+1. **CP7 Things** — homelab, services, infrastructure → `entities/`, `concepts/`
+2. **GitHub Things** — repos, projects → `projects/`
+3. **Chris & Projects** — Chris Pack, family, personal projects → `entities/chris.md`, `projects/`
 
 ## Conventions
 - File names: lowercase, hyphens, no spaces (e.g., `tuya-10x-scaling-bug.md`)

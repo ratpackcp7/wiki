@@ -36,7 +36,7 @@
 - [[projects/cp7-mobile|CP7 Mobile]] — Expo/React Native app (v1.3 in progress)
 - [[projects/hermes-agent|Hermes Agent]] — AI agent framework
 - [[projects/cc-loop|CC Loop]] — Persistent Claude Code loop
-- [[hermes-workspace|Hermes Workspace]] — Web UI at bob.cp7.dev
+- [[projects/hermes-workspace|Hermes Workspace]] — Web UI at bob.cp7.dev
 - [[context-engine-v2|Context Engine v2]] — Hybrid FTS5+vector store
 - [[honcho|Honcho]] — Memory library for stateful agents
 

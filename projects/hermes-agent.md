@@ -24,6 +24,6 @@ Hybrid AIAgent with CLI + API. Supports multiple LLM providers via OpenRouter, l
 - MCP (Model Context Protocol) support
 
 ## Related Pages
-- [[hermes-workspace|Hermes Workspace]]
+- [[projects/hermes-workspace|Hermes Workspace]]
 - [[session-broker|Session Broker]]
 - [[chris|Chris Pack]]

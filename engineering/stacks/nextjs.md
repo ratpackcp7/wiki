@@ -92,7 +92,7 @@ version_pinned: "16.2.1"
 
 ## Recent changes
 
-- 2026-04-11: Wiki page created from cp7-dashboard-tiles project files.
+- 2026-04-11: Wiki page created from dashboard project files.
 
 ## Sources
 

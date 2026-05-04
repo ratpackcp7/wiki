@@ -7,9 +7,9 @@ tags: [nextjs, typescript, react, frontend, app-router]
 sources:
   - url: https://nextjs.org/docs/app
     fetched: 2026-04-11
-  - url: file:///home/chris/projects/cp7-dashboard-tiles/package.json
+  - url: file:///home/chris/projects/dashboard/package.json
     fetched: 2026-04-11
-  - url: file:///home/chris/projects/cp7-dashboard-tiles/next.config.ts
+  - url: file:///home/chris/projects/dashboard/next.config.ts
     fetched: 2026-04-11
 last_verified: 2026-04-11
 churn_rate: high
@@ -30,7 +30,7 @@ version_pinned: "16.2.1"
 | tailwindcss | ^4 | `devDependencies` |
 | shadcn | ^4.1.2 | `package.json` |
 
-**⚠️ This is NOT the Next.js you know.** The `cp7-dashboard-tiles/AGENTS.md` explicitly warns: "This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` before writing any code."
+**⚠️ This is NOT the Next.js you know.** The `dashboard/AGENTS.md` explicitly warns: "This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` before writing any code."
 
 ## Key concepts
 
@@ -96,9 +96,9 @@ version_pinned: "16.2.1"
 
 ## Sources
 
-- `~/projects/cp7-dashboard-tiles/package.json` — all dependency versions
-- `~/projects/cp7-dashboard-tiles/next.config.ts` — standalone mode, build stamps, headers
-- `~/projects/cp7-dashboard-tiles/Dockerfile` — multi-stage build, node:22-alpine
-- `~/projects/cp7-dashboard-tiles/AGENTS.md` — breaking changes warning
-- `~/projects/cp7-dashboard-tiles/app/` — App Router file structure
+- `~/projects/dashboard/package.json` — all dependency versions
+- `~/projects/dashboard/next.config.ts` — standalone mode, build stamps, headers
+- `~/projects/dashboard/Dockerfile` — multi-stage build, node:22-alpine
+- `~/projects/dashboard/AGENTS.md` — breaking changes warning
+- `~/projects/dashboard/app/` — App Router file structure
 - `~/wiki/raw/changelogs/nextjs/16-0.md` — Next.js 16 changelog

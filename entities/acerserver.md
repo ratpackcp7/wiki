@@ -35,7 +35,7 @@ Primary homelab server running all CP7 infrastructure. **An old Acer laptop** re
 - **hermes-workspace.service** — `systemd --user`, serves `:3002`, Next.js/yarn build, routed via `bob.cp7.dev`. Safe to restart directly.
 
 ### CP7 apps
-- **cp7-dashboard.service** — `systemd --user`, serves `:3090`, routed via `dashboard.cp7.dev` and `hub.cp7.dev`. Runs as a `next-server` process owned by `chris`, cwd under `~/projects/cp7-dashboard-tiles/.next/standalone`. Worktree setup: main at `~/projects/cp7-dashboard`, feat branches at `~/projects/cp7-dashboard-*`. Live process runs from the worktree standalone build — NEVER build, switch branches, or kill the `next-server` PID bound to :3090.
+- **cp7-dashboard.service** — `systemd --user`, serves `:3090`, routed via `dashboard.cp7.dev` and `hub.cp7.dev`. Runs as a `next-server` process owned by `chris`, cwd under `~/projects/dashboard/.next/standalone`. Worktree setup: main at `~/projects/cp7-dashboard`, feat branches at `~/projects/cp7-dashboard-*`. Live process runs from the worktree standalone build — NEVER build, switch branches, or kill the `next-server` PID bound to :3090.
 - **empower.service** — systemd unit exists but disabled; the real empower currently runs as a bare chris-owned uvicorn process on `:8610`, routed via `empower.cp7.dev`. See [[empower]]. (Note: the disabled systemd unit is in a crashloop state — separate issue to investigate.)
 - **CP7 Bridge MCP** — `mcp.cp7.dev`
 - **Swap file browser** — `swap-browser.service`, serves `:8888` on Tailscale only, serves `~/swap`. Charts land in `~/swap/Hermes media/`.

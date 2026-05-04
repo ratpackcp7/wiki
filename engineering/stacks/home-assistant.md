@@ -42,7 +42,7 @@ Chris runs HAOS on a GMKtec G3 Plus at `cp7ha.duckdns.org:8123`.
 - Entity `switch.outside_front_socket` — greenhouse heater control
 - Sensor `sensor.indoor_outdoor_meter_2683_temperature` — greenhouse temp
 - Heater logic: ON <52°F, OFF >58°F, safety @70°F
-- HA token stored at `~/projects/cp7-dashboard-tiles/.env.local`
+- HA token stored at `~/projects/dashboard/.env.local`
 
 ## Chris's preferences
 

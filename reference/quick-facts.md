@@ -10,7 +10,7 @@ Merged from L2_FACTS.md. Grep-friendly key-value pairs for mid-session lookups.
 - `dashboard.cp7.dev` (port 3090) = hub, replaces cp7hub
 - `bob.cp7.dev` (port 3002) = workspace
 - `ntfy` :8085 (Tailscale only)
-- HA token at `~/projects/cp7-dashboard-tiles/.env.local`
+- HA token at `~/projects/dashboard/.env.local`
 
 ## Empower Audit Rules
 - MK CC pattern: match by last4 + merchant

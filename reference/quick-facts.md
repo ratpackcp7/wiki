@@ -1,4 +1,4 @@
-# Quick Facts — Bob's Reference
+# Quick Facts — Agent Reference
 Merged from L2_FACTS.md. Grep-friendly key-value pairs for mid-session lookups.
 
 ## Web Search

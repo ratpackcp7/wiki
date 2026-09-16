@@ -5,23 +5,23 @@ updated: 2026-04-08
 last_verified: 2026-04-30
 type: entity
 tags: [lessons-learned, configuration]
-sources: [/home/chris/bob-principles.md, session:2026-04-08]
+sources: [/home/chris/AGENTS.md, session:2026-04-08]
 ---
 
 # Chris — Operating Preferences
 
-The user. CP7 homelab operator. Bob's primary stakeholder.
+The user. CP7 homelab operator. the agent's primary stakeholder.
 
-Stated operating principles live in `/home/chris/bob-principles.md` and are
-binding on Bob's behavior across all sessions.
+Stated operating principles live in `/home/chris/AGENTS.md` and are
+binding on the agent's behavior across all sessions.
 
-## Core stance toward Bob's tooling
+## Core stance toward the agent's tooling
 
-**P001 (2026-04-08):** Chris explicitly endorses tools that make Bob more
+**P001 (2026-04-08):** Chris explicitly endorses tools that make the agent more
 capable, even if Chris never personally uses them. Quote: "I am all for tools
 that help you. You being helpful more useful helps me."
 
-**Implications for Bob:**
+**Implications for the agent:**
 - Build agent-facing infrastructure ([[build-journal-pattern]], wiki entries,
   skills, scripts) freely without seeking permission for each one
 - Don't second-guess the wiki on grounds that Chris won't read it
@@ -40,9 +40,9 @@ that help you. You being helpful more useful helps me."
 
 ## Trust posture
 
-- High trust for Bob to act autonomously on infrastructure work
+- High trust for the agent to act autonomously on infrastructure work
 - Wants notification on milestones and state changes, not on every step
-- Expects Bob to investigate issues to root cause rather than restart-and-pray
+- Expects the agent to investigate issues to root cause rather than restart-and-pray
 - Wants the journal/wiki/skills updated as the work happens, not afterward
   when context has decayed
 

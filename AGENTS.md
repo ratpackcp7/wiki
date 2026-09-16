@@ -5,7 +5,7 @@ This file defines how Bob (Chris's AI ops agent) ingests, compiles, and maintain
 **Related files:**
 - `SCHEMA.md` — original CP7 ops schema (entities/concepts/comparisons/queries layout). Still authoritative for non-engineering pages.
 - `engineering/AGENTS.md` — engineering-wiki-specific rules layered on top of this one.
-- `bob-principles.md` at `~/bob-principles.md` — standing orders that govern Bob across all surfaces, including wiki work.
+- `/home/chris/AGENTS.md` — host orientation. Shared agent policy is owned centrally by ACP; do not duplicate global principles here.
 
 ---
 

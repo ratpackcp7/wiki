@@ -1,6 +1,6 @@
-# Wiki AGENTS.md — Rules for Bob
+# Wiki AGENTS.md — Agent rules
 
-This file defines how Bob (Chris's AI ops agent) ingests, compiles, and maintains the wiki at `~/wiki/`. It is the root contract. Every write operation against the wiki must be consistent with these rules.
+This file defines how agents ingest, compile, and maintain the wiki at `~/wiki/`. It is the root contract. Every write operation against the wiki must be consistent with these rules.
 
 **Related files:**
 - `SCHEMA.md` — original CP7 ops schema (entities/concepts/comparisons/queries layout). Still authoritative for non-engineering pages.
@@ -21,7 +21,7 @@ This file defines how Bob (Chris's AI ops agent) ingests, compiles, and maintain
 │   ├── blogs/        (NEW — blog posts fetched via blogwatcher or on-demand)
 │   ├── docs/         (NEW — official docs snapshots, per version)
 │   ├── changelogs/   (NEW — release notes, deprecations)
-│   └── corrections/  (NEW — things Chris corrected Bob about, dated)
+│   └── corrections/  (NEW — things Chris corrected an agent about, dated)
 │
 ├── entities/         (existing — CP7 ops entity pages)
 ├── concepts/         (existing — CP7 ops concept pages)
@@ -48,7 +48,7 @@ Content enters the wiki in two distinct passes:
 1. **Ingest** (fast, mechanical, non-lossy): capture the primary source verbatim into `raw/`. Never summarize, never interpret. Store the full markdown, inline images, keep the original URL and fetch date.
 2. **Compile** (slow, thoughtful, lossy-by-design): read one or more `raw/` items and write a compiled page into `entities/`, `concepts/`, or `engineering/`. This is where synthesis happens.
 
-**Why:** If a better model ships next year, Bob can re-compile the entire wiki from `raw/` without re-fetching. Pre-digesting at ingest time is the #1 knowledge-base anti-pattern identified in 2025-2026 literature.
+**Why:** If a better model ships next year, an agent can re-compile the entire wiki from `raw/` without re-fetching. Pre-digesting at ingest time is the #1 knowledge-base anti-pattern identified in 2025-2026 literature.
 
 ### P2 — Blogs are attention signals, not knowledge
 A blog post never becomes a wiki page on its own. When a blog post is interesting:
@@ -59,7 +59,7 @@ A blog post never becomes a wiki page on its own. When a blog post is interestin
 4. Update or create the relevant compiled page (e.g., `engineering/stacks/nextjs.md`).
 5. Cite the blog post in the compiled page's sources list.
 
-The blog is the *attention signal* that told Bob something changed. The primary source is the knowledge.
+The blog is the *attention signal* that told the agent something changed. The primary source is the knowledge.
 
 ### P3 — Provenance and confidence decay
 Every compiled page carries frontmatter that tracks freshness:
@@ -84,13 +84,13 @@ version_pinned: "16.2"  # if applicable
 ```
 
 **Rules:**
-- `last_verified` is updated whenever Bob re-reads the primary source and confirms the page is still correct.
+- `last_verified` is updated whenever an agent re-reads the primary source and confirms the page is still correct.
 - `churn_rate` drives the re-verification schedule (see engineering/AGENTS.md).
 - Any page whose `last_verified` is older than `{high: 30d, medium: 90d, low: 365d}` gets flagged in the nightly retro as **stale**.
 - A stale page is not deleted — it is marked `confidence: stale` at the top until re-verified.
 
 ### P4 — Volatility gating (from P005 + stale-knowledge research)
-Before Bob emits any of the following in a technical answer, Bob **must** have a tool-call citation from the current session:
+Before an agent emits any of the following in a technical answer, the agent **must** have a tool-call citation from the current session:
 
 - Version numbers
 - CLI flags or subcommand names
@@ -117,7 +117,7 @@ The order of citation sources (strongest to weakest):
 - If Context7 returns a page you'll cite in a compiled `engineering/` page, capture the relevant excerpt to `raw/docs/` so the page has a local source record.
 
 ### P5 — Messy vault vs clean vault
-Bob writes freely to `~/wiki/engineering/drafts/` for pages that are low-confidence or in-progress. Only promoted to the main `engineering/` tree after:
+Agents write freely to `~/wiki/engineering/drafts/` for pages that are low-confidence or in-progress. Only promoted to the main `engineering/` tree after:
 
 - At least one primary source verified
 - Chris has seen the page (during a technical question or an explicit review)
@@ -128,12 +128,12 @@ Drafts are still searchable but are labeled `confidence: unverified`. This preve
 ### P6 — chris-preferences.md is load-bearing
 This file is the spine of the whole engineering wiki. Every page that offers a recommendation must cross-reference it. If "best practice says X" but `chris-preferences.md` says Y, the page documents **both** and explains the delta.
 
-When Chris corrects Bob on an engineering topic, the correction lands in two places:
+When Chris corrects an agent on an engineering topic, the correction lands in two places:
 1. `raw/corrections/YYYY-MM-DD-topic.md` — the verbatim exchange
 2. `engineering/chris-preferences.md` — the distilled preference
 
 ### P7 — Linting and self-healing
-Periodically (via the `wiki-lint` skill, called from nightly retro), Bob scans the wiki for:
+Periodically (via the `wiki-lint` skill, called from nightly retro), the wiki maintainer scans the wiki for:
 
 - Broken backlinks / wikilinks that point to missing pages
 - Pages with `last_verified` past the churn-rate window
@@ -147,7 +147,7 @@ Findings are reported, not auto-fixed. Chris decides what to act on.
 
 ## Ingest discipline
 
-When Bob fetches a primary source (blog post, doc page, changelog), the capture file in `raw/` looks like:
+When an agent fetches a primary source (blog post, doc page, changelog), the capture file in `raw/` looks like:
 
 ```markdown
 ---
@@ -187,13 +187,13 @@ slug: 2026-04-05-simon-willison-some-post
 
 ## Read protocol
 
-When answering a technical question, Bob's read order is:
+When answering a technical question, the agent's read order is:
 
 1. `grep -r <topic> ~/wiki/engineering/` — is there a compiled page?
 2. If yes, read it and check `last_verified` / `churn_rate`. If within window, use it and cite.
 3. If stale or missing, check `raw/docs/` and `raw/changelogs/` for a recent capture.
 4. If no recent capture, fetch the primary source fresh, write it to `raw/`, then compile or update the engineering page.
-5. Only after steps 1-4 fail should Bob emit an answer based on parametric recall — and it must be flagged as "unverified, training data only."
+5. Only after steps 1-4 fail should the agent emit an answer based on parametric recall — and it must be flagged as "unverified, training data only."
 
 ---
 
@@ -201,7 +201,7 @@ When answering a technical question, Bob's read order is:
 
 - **Not a blog archive.** Raw blog captures are transient inputs, not the product.
 - **Not a vector database.** Retrieval is grep + ripgrep + SQLite FTS5. No embeddings until the corpus is too big for grep (> ~10k files).
-- **Not human-only documentation.** It is agent-first. Chris can read it, but the primary consumer is Bob during decision-making.
+- **Not human-only documentation.** It is agent-first. Chris can read it, but the primary consumers are agents working on Chris's projects.
 - **Not a dumping ground.** Every page must be citable and justify its existence. No "maybe useful later" pages.
 - **Not auto-promoted.** Drafts become authoritative only after verification + Chris's implicit or explicit review.
 
@@ -227,4 +227,4 @@ Before compiling any raw source into an `engineering/` page, apply this test:
 
 **The raw layer is unaffected.** Capture everything verbatim to `raw/`. The gate applies only to what gets promoted to `engineering/`.
 
-**Rationale:** The wiki exists to make Bob smarter about Chris's projects, not to mirror docs. Context7 has docs covered, fresher and more complete. The wiki's unique value is project-specific knowledge that no external source contains.
+**Rationale:** The wiki exists to make agents better informed about Chris's projects, not to mirror docs. Context7 has docs covered, fresher and more complete. The wiki's unique value is project-specific knowledge that no external source contains.

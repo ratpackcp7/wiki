@@ -60,7 +60,7 @@ Principle pages are shorter and less volatile:
 ## When to create a page
 
 **Create** when:
-- Bob has answered the same technical question 3+ times in past sessions
+- the agent has answered the same technical question 3+ times in past sessions
 - A multi-file feature was built on a stack not yet documented
 - Chris gave a preference that doesn't have a home yet
 - A primary source (docs, changelog) was read and synthesized during an answer
@@ -94,7 +94,7 @@ The "Recent changes" section on compiled pages keeps only the last 90 days of en
 - Only call out specific patches if they fixed something Chris hit or should know about
 
 ### Monthly pruning (1st of each month, via cron)
-Bob reviews each compiled engineering page:
+the agent reviews each compiled engineering page:
 1. Trim "Recent changes" to 90-day window
 2. Consolidate noisy entries
 3. Check `last_verified` against churn_rate — flag stale pages

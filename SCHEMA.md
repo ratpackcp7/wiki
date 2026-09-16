@@ -18,7 +18,7 @@ Lives under `~/wiki/engineering/` — see `engineering/AGENTS.md` for full rules
 - `languages/` — language-specific idioms (churn: 90 days)
 - `stacks/` — framework/runtime specific (churn: 30 days)
 - `practices/` — workflow and process (churn: 90 days)
-- `chris-preferences.md` — the spine, links to `~/bob-principles.md`
+- `chris-preferences.md` — the spine, links to the current visible agent contract
 
 ### Legacy (being phased out)
 - `comparisons/` — product/repo comparisons
@@ -37,7 +37,7 @@ Lives under `~/wiki/engineering/` — see `engineering/AGENTS.md` for full rules
 - When updating a page, always bump the `updated` date
 - Every new page must be added to `index.md` under the correct section
 - Every action must be appended to `log.md`
-- Bob manages this wiki autonomously — filing topics when they have enough depth
+- the agent manages this wiki autonomously — filing topics when they have enough depth
 - No page for passing mentions. Create only when 2+ sources or central to a discussion.
 
 ## Frontmatter
